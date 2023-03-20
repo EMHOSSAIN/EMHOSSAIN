@@ -1,6 +1,7 @@
-***Here is what i'm working on
-Here are some ideas to get you started:
+**Hi! This is Emam Hossain 👋
 
+I am a Front-End developer with experiences in creating visually responsive websits using many programming technology like HTML, CSS, JAVASCRIPT,REACT,REDUX,NEXTJS,TYPESCRITP. I spend most of the time understing project and creating website. 
+ 
 - 🔭 I’m currently working on ... Web Development
 - 🌱 I’m currently learning ... Redux, NextJs, TypeScript
 - 👯 I’m looking to collaborate on ... Reactjs, Nextjs, TypeScript
