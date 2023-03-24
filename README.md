@@ -1,7 +1,7 @@
 
-<p align="center" width='100%'> <img src="http://evermont.org/wp-content/uploads/2023/02/web-developer.jpg" alt="coding" /> </p>
+<p align="center" width='600'> <img src="http://evermont.org/wp-content/uploads/2023/02/web-developer.jpg" alt="coding" /> </p>
 
-<h1 align="center">Hi 👋, I'm Emam Hossain</h1>
+<h1 align="center">Hi 👋, This is Emam Hossain</h1>
 
 <h3 align="center">I am a Front-End developer with experiences in creating visually responsive websits using many programming technology like HTML, CSS, JAVASCRIPT,REACT,REDUX,NEXTJS,TYPESCRITP. I spend most of the time understanding project and creating website.</
 
